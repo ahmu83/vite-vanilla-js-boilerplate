@@ -1,4 +1,4 @@
-# vite-vanilla-js-boilerplate
+# Complite SASS & JS (with vitejs) files
 
 A traditional approach to building JavaScript & SCSS files using vitejs.
 
