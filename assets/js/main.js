@@ -5,3 +5,5 @@ window.App = App;
 window.Alpine = Alpine;
 
 Alpine.start();
+
+// alert(1);
